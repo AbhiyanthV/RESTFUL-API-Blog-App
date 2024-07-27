@@ -1,4 +1,3 @@
-# RESTFUL-API-Blog-App-
 # RESTful Blog Application API
 
 ## Objective
@@ -65,7 +64,7 @@ Create a RESTful API for a blog application that allows users to create, read, u
 ## Setup and Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/blog-api.git
+    git clone https://github.com/AbhiyanthV/RESTFUL-API-Blog-App
     cd blog-api
     
     ```
