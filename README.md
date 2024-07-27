@@ -1,4 +1,4 @@
-[# RESTful Blog Application API
+# RESTful Blog Application API
 
 ## Objective
 Create a RESTful API for a blog application that allows users to create, read, update, and delete blog posts, as well as manage comments.
