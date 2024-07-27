@@ -55,6 +55,7 @@ Create a RESTful API for a blog application that allows users to create, read, u
   - `id`: Unique identifier.
   - `title`: Title(name) of the blog post.
   - `content`: Content of the blog post.
+  - `user`: User who created the blog post.
   - `image`: URL of the uploaded image.
 - **Comments**:
   - `id`: Unique identifier.
